@@ -2,8 +2,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import math
 
-# [Mantendo todas as funções matemáticas existentes...]
-# Adição (Fácil) - 1
 # Adição (Fácil) - 1
 def adicao(num1, num2):
     return f"A soma dos dois números é: {num1 + num2}"
